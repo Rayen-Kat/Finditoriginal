@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FindIt</string>
+    <string name="title_activity_mapa_visita">Map</string>
+    <string name="title_activity_mapa_visitante">Map</string>
+    <string name="title_activity_mapa_usuario">Map</string>
+</resources>
