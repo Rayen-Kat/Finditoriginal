@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         imgbtnVisita.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intento2 = new Intent(MainActivity.this, MapaVisitante.class);
+                Intent intento2 = new Intent(MainActivity.this, prox.class);
                 startActivity(intento2);
             }
         });
